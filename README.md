@@ -1,3 +1,3 @@
 # my-reopi
 sdcdsc
-change the repo before 27 june 
+change the repo before 7 july
